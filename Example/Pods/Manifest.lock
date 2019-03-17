@@ -1,0 +1,16 @@
+PODS:
+  - JVStackView (0.1.0)
+
+DEPENDENCIES:
+  - JVStackView (from `../`)
+
+EXTERNAL SOURCES:
+  JVStackView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVStackView: 3cfde64779c004a92bba3e864de9eebb819efbe9
+
+PODFILE CHECKSUM: 460d8af19ad65cdfb41bf2daa1a0d1462f73ad35
+
+COCOAPODS: 1.6.1

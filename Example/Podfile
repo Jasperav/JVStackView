@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVStackView_Tests' do
+  pod 'JVStackView', :path => '../'
+  
+  
+end

@@ -1,0 +1,6 @@
+framework module JVStackView {
+  umbrella header "JVStackView-umbrella.h"
+
+  export *
+  module * { export * }
+}
