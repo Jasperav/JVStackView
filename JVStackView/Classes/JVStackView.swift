@@ -16,7 +16,7 @@ open class JVStackView: UIStackView {
     }
     
     public required init(coder: NSCoder) {
-        fatalError("init(coder:) has not been implemented")
+        fatalError()
     }
     
 }
